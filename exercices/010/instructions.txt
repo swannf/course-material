@@ -1,0 +1,8 @@
+Print Hello World, 100 times
+============================
+
+Introduces: range.
+
+Print "Hello World" one hundread times.
+
+Each "Hello World" should be printed alone on its line.

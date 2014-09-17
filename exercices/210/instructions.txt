@@ -1,0 +1,9 @@
+Print the sum of every prime number < 1000
+==========================================
+
+Introduces: module, for, numbers, functions, if.
+
+You may use your is_prime function like this :
+
+import exo0
+print exo0.is_prime(999)

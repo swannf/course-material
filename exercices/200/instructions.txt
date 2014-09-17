@@ -1,0 +1,14 @@
+Create a function, is_prime, that check if its given number is a prime one
+==========================================================================
+Introduces: bool, functions, if.
+
+Your is_prime function take one parameter, and return True if the
+given parameter is a prime number, False otherwise.
+
+So it will look like:
+def is_prime(number):
+    ...
+    ... ...
+    ... return False
+    ... ...
+    return True

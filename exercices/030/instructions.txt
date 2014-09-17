@@ -1,0 +1,6 @@
+Print even numbers in the range [0; 100]
+========================================
+
+Introduces: range, if.
+
+Print every even numbers less than 100, each on a line.

@@ -1,0 +1,8 @@
+Print the fist prime number after the given one
+===============================================
+
+Introduces: itertools, module.
+
+Prime the first prime number greater than 100000000.
+
+You may use itertools.count(), and you may need sys.exit().

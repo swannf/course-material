@@ -1,0 +1,16 @@
+Print every two letters pairs
+=============================
+
+Introduces: strings, operators.
+
+Print every possible pairs of two letters, only lower case, one by
+line, ordered alphabetically.
+
+So your output should look like:
+aa
+ab
+..
+ba
+bb
+,,
+zz

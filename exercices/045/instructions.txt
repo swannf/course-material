@@ -1,0 +1,8 @@
+First function
+==============
+
+Introduces: functions.
+
+Define a function returning the square root of the given number, name it sqrt.
+
+Use your function to compute √-1, use print display the result.

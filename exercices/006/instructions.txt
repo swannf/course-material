@@ -1,0 +1,13 @@
+Simple list
+===========
+
+Introduces: list.
+
+Print the list ["Hello world", 42], using the print() function.
+
+Notice that I'm not asking to print the string '["Hello world", 42]',
+(composed of 18 chars), but the list containing a string an a number.
+
+But don't worry, print() will understand your list, and will display a
+friendly version of it. Python works for you, you're not working for
+Python.

@@ -1,0 +1,27 @@
+Basic loop
+==========
+
+Introduces: for.
+
+By typing print only once in your source code, make Python print
+"Hello world !" vertically.
+
+In other words, I want :
+
+print('H')
+print('e')
+print('l')
+print('l')
+print('o')
+print(' ')
+print('w')
+print('o')
+print('r')
+print('l')
+print('d')
+print(' ')
+print('!')
+
+BUT I want you to use a "for" construct instead of manually repeating
+"print", "print", "print", "print"... Guess what ? I used a "for" to
+produce the previous ugly list of "print, print, print, print" ;-)

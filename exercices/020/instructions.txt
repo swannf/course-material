@@ -1,0 +1,6 @@
+Print numbers from 1 to 100
+===========================
+
+Introduces: range.
+
+Print numbers from 1 to 100, one by line.

@@ -1,0 +1,17 @@
+Print every prime numbers in a range
+====================================
+
+Introduces: list, strings, functions.
+
+Print every prime number in the range [10000;10050], separated by
+comas and spaces.
+
+You may use your is_prime function like this :
+
+import exo0
+print exo0.is_prime(999)
+
+It will look like:
+1, 2, 3, 4, 5, 6
+
+You may use a list, and str.join
