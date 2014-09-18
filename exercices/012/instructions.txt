@@ -1,6 +1,0 @@
-Maybe for very large values of 2
-================================
-
-Introduces: comparisons.
-
-Make Python print its thoughts about 2 + 2 being equal to 5.

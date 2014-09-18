@@ -1,0 +1,17 @@
+# 42
+
+Introduces: print, numbers.
+
+## Instructions
+
+Write a script named `solution.py` that prints 42
+
+## Advice
+
+Use the [`print()`](https://docs.python.org/3.4/library/functions.html#print) function.
+
+I'm not asking to print the string "42", (composed of two chars), but the number 42.
+
+## References
+[print](https://docs.python.org/3/tutorial/index.html)
+[numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)

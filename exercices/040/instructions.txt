@@ -1,6 +1,0 @@
-SUM of pairs numbers <= 100
-===========================
-
-Introduces: variables.
-
-Print the sum of every even numbers in the range [0; 100]

@@ -1,22 +1,25 @@
-Hello World
-===========
+# Hello World
 
 Introduces: print, strings.
 
-Print "Hello World", using the print() function.
+## Instructions
 
-Using command line, I want to see:
+Write a script named `solution.py` that prints "Hello World".
 
-julien@localhost$ python exo-00.py
+## Advice
+
+Use the [`print()`](https://docs.python.org/3.4/library/functions.html#print) function.
+
+## Evaluation
+
+The correction Robot will test your script such as:
+
+```bash
+julien@localhost$ python solution.py
 Hello World
 julien@localhost$
+```
 
-So your program will emit a new line after the last letter, otherwise I'll see:
-
-julien@localhost$ python exo-00.py
-Hello Worldjulien@localhost$
-
-And I don't like it !!
-
-But don't worry, print() will handle the output of the new-line
-character, it's cool.
+## References
+[print](https://docs.python.org/3/tutorial/index.html)
+[strings](https://docs.python.org/3/tutorial/introduction.html#strings)

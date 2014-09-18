@@ -1,9 +1,0 @@
-Using operators
-===============
-
-Introduces: operators.
-
-Make Python compute and print the solution of 245850922 / 78256779.
-Make python compute and print (1 + √5) / 2
-
-One solution may be printed by line.
