@@ -10,4 +10,4 @@ Print the 10 first numbers, separated by comas and spaces, end with a
 dot, like in the given example with 3 numbers.
 
 ## References
-[range](https://docs.python.org/3/library/functions.html#func-range)
+ - [range](https://docs.python.org/3/library/functions.html#func-range)

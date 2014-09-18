@@ -11,4 +11,4 @@ One solution must be printed by line.
 
 
 ## References
-[operators](https://docs.python.org/3.1/library/stdtypes.html#numeric-types-int-float-complex)
+ - [operators](https://docs.python.org/3.1/library/stdtypes.html#numeric-types-int-float-complex)

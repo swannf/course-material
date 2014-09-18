@@ -16,4 +16,4 @@ True
 ```
 
 ## References
-[comparisons](https://docs.python.org/3.1/library/stdtypes.html#comparisons)
+ - [comparisons](https://docs.python.org/3.1/library/stdtypes.html#comparisons)

@@ -14,4 +14,4 @@ You must use the `print()` function only once in your script.
 You must use a [`for`](https://docs.python.org/3.4/reference/compound_stmts.html#for) loop.
 
 ## References
-[for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+ - [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)

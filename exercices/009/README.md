@@ -24,6 +24,6 @@ A string is also a list.
 Take a look at the method [`split`](https://docs.python.org/2/library/stdtypes.html#str.split).
 
 ## References
-[split](https://docs.python.org/3/library/stdtypes.html#str.split)
-[list](https://docs.python.org/3/tutorial/introduction.html#lists)
-[len](https://docs.python.org/3/library/functions.html#len)
+ - [split](https://docs.python.org/3/library/stdtypes.html#str.split)
+ - [list](https://docs.python.org/3/tutorial/introduction.html#lists)
+ - [len](https://docs.python.org/3/library/functions.html#len)

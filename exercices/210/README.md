@@ -19,8 +19,8 @@ You're free to name it `math_tools.py`, and `import math_tools`, as
 long as I get every prime number under 1000.
 
 ## References
-[module](https://docs.python.org/3.4/library/sys.html)
-[for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
-[numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
-[functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
-[if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+ - [module](https://docs.python.org/3.4/library/sys.html)
+ - [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+ - [numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
+ - [functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+ - [if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)

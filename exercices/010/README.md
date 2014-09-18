@@ -8,5 +8,5 @@ Print `Hello World` one hundread times, one line per each.
 
 
 ## References
-[for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
-[range](https://docs.python.org/3/library/functions.html#func-range)
+ - [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+ - [range](https://docs.python.org/3/library/functions.html#func-range)

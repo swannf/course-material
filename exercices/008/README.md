@@ -25,6 +25,6 @@ Take a look at [`len()`](https://docs.python.org/3/library/functions.html#len) f
 
 
 ## References
-[len](https://docs.python.org/3/library/functions.html#len)
-[strings](https://docs.python.org/3/tutorial/introduction.html#strings)
-[list](https://docs.python.org/3/tutorial/introduction.html#lists)
+ - [len](https://docs.python.org/3/library/functions.html#len)
+ - [strings](https://docs.python.org/3/tutorial/introduction.html#strings)
+ - [list](https://docs.python.org/3/tutorial/introduction.html#lists)

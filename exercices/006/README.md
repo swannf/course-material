@@ -18,4 +18,4 @@ friendly version of it. Python works for you, you're not working for
 Python.
 
 ## References
-[list](https://docs.python.org/3/tutorial/introduction.html#lists)
+ - [list](https://docs.python.org/3/tutorial/introduction.html#lists)

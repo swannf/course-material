@@ -21,7 +21,7 @@ You may use a list, and str.join to produce this kind of
 representation.
 
 ## References
-[list](https://docs.python.org/3/tutorial/introduction.html#lists)
-[strings](https://docs.python.org/3/tutorial/introduction.html#strings)
-[functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
-[module](https://docs.python.org/3.4/library/sys.html)
+ - [list](https://docs.python.org/3/tutorial/introduction.html#lists)
+ - [strings](https://docs.python.org/3/tutorial/introduction.html#strings)
+ - [functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+ - [module](https://docs.python.org/3.4/library/sys.html)

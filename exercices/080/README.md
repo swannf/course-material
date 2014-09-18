@@ -10,6 +10,6 @@ A combination skips a lots of pairs, for exemple :
 combinations of two items  from 'ABCD' yields AB AC AD BC BD CD
 
 ## References
-[strings](https://docs.python.org/3/tutorial/introduction.html#strings)
-[for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
-[if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+ - [strings](https://docs.python.org/3/tutorial/introduction.html#strings)
+ - [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+ - [if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)

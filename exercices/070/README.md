@@ -18,5 +18,5 @@ bc
 zy
 ```
 ## References
-[for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
-[if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+ - [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+ - [if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)

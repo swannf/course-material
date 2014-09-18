@@ -17,6 +17,6 @@ def is_prime(number):
     return True
 ```
 ## References
-[bool](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
-[functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
-[if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+ - [bool](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+ - [functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+ - [if](https://docs.python.org/3/tutorial/controlflow.html#if-statements)

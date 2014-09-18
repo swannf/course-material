@@ -26,6 +26,6 @@ less precision, and we'll not take "new lines" into account while
 counting characters.
 
 ## References
-[file](https://docs.python.org/3.3/tutorial/inputoutput.html#reading-and-writing-files)
-[format](https://docs.python.org/3.1/library/string.html#formatspec)
-[dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+ - [file](https://docs.python.org/3.3/tutorial/inputoutput.html#reading-and-writing-files)
+ - [format](https://docs.python.org/3.1/library/string.html#formatspec)
+ - [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
