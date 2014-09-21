@@ -35,3 +35,8 @@ julien@localhost$
  - [len](https://docs.python.org/3/library/functions.html#len)
  - [list](https://docs.python.org/3/tutorial/introduction.html#lists)
  - [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+ - [enumerate](https://docs.python.org/3.4/library/functions.html#enumerate)
+ - [enumerate](☛)
+ - [enumerate](for(print,)
+ - [enumerate](list))
+ - [enumerate](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
