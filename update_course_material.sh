@@ -1,7 +1,6 @@
 #!/bin/sh
 
-hasupstream=(`git remote -v | grep "upstream"`)
-if [ ! $hasupstream ];
+if ! git remote -v | grep -q "upstream"
     then 
     git remote add upstream https://github.com/hackinscience/course-material.git
 fi
