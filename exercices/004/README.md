@@ -1,4 +1,4 @@
-# count parameters
+# Print parameters
 
 Introduces: argv, import.
 
