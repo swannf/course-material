@@ -8,7 +8,7 @@ Write a script named `solution.py` that find the name of the script and print it
 
 ## Advice
 
-Maybe you will need to import few sys modules in your program.
+Have a look at [sys.argv](https://docs.python.org/3/library/sys.html#sys.argv) and how to [import](https://docs.python.org/3.4/tutorial/modules.html) it.
 
 ## Example
 
@@ -18,7 +18,6 @@ solution.py
 julien@localhost$ mv solution.py solution2.py
 julien@localhost$ python solution2.py
 solution2.py
-julien@localhost$
 ```
 
 
