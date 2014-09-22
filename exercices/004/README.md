@@ -13,7 +13,7 @@ Have a look at [sys.argv](https://docs.python.org/3/library/sys.html#sys.argv) a
 ## Example
 
 ```bash
-julien@localhost$ python solution.py
+julien@localhost$ python3 solution.py
 solution.py
 julien@localhost$ mv solution.py solution2.py
 julien@localhost$ python solution2.py

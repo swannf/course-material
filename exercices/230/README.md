@@ -7,7 +7,7 @@ Introduces: itertools, module.
 Provide the script `solution.py` that prints the first prime number greater than 100000000.
 
 ```bash
-$ python solution.py
+$ python3 solution.py
 666
 ```
 

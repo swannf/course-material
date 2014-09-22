@@ -13,12 +13,12 @@ Maybe you will need to import few modules in your program.
 ## Example
 
 ```bash
-julien@localhost$ python solution.py antoine
+julien@localhost$ python3 solution.py antoine
 antoine
-julien@localhost$ python solution.py julien
+julien@localhost$ python3 solution.py julien
 julien
-julien@localhost$ python solution.py
-usage: python solution.py PARAM 
+julien@localhost$ python3 solution.py
+usage: python3 solution.py PARAM
 julien@localhost$
 ```
 

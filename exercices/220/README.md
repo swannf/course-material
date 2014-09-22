@@ -10,7 +10,7 @@ comas and spaces.
 The output of your program have to look like this:
 
 ```bash
-$ python solution.py
+$ python3 solution.py
 1, 2, 3, 4, 5, 6
 ```
 

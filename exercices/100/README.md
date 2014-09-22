@@ -21,7 +21,7 @@ station = {
 Copy paste this dictionnary into your `solution.py` that must print one key and one value per line, such as:
 
 ```bash
-$ python solution.py
+$ python3 solution.py
 latitude 48.864527821
 longitude 2.41617072443
 number 31705

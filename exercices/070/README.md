@@ -10,7 +10,7 @@ line, ordered alphabetically, but that skip duplicates, such as 'aa', 'bb', etc.
 So your output should look like:
 
 ```bash
-$ python solution.py
+$ python3 solution.py
 ab
 ..
 az

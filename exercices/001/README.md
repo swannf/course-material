@@ -7,7 +7,7 @@ Write a script named `solution.py` that prints "abcdefghijklnmopqrstuvwxyz", usi
 Using command line, I want to see:
 
 ```bash
-julien@localhost$ python solution.py
+julien@localhost$ python3 solution.py
 abcdefghijklnmopqrstuvwxyz
 julien@localhost$
 ```

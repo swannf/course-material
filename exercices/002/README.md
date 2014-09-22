@@ -7,7 +7,7 @@ Write a program that print the reverse alphabet with the vowels capitalised.
 Using command line, I want to see:
 
 ```bash
-julien@localhost$ python solution.py
+julien@localhost$ python3 solution.py
 zyxwvUtsrqpOnmlkjIhgfEdcbA
 julien@localhost$
 ```

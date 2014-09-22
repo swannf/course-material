@@ -9,7 +9,7 @@ Print every possible **combinations** of 2 lowercase letters, one by line.
 A combination skips a lots of pairs, make sure you understand : <https://en.wikipedia.org/wiki/Combination>
 
 ```bash
-$ python solution.py
+$ python3 solution.py
 ab
 ac
 ad

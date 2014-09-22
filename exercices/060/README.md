@@ -9,7 +9,7 @@ line, ordered alphabetically.
 
 So your output should look like:
 ```
-$ python solution.py
+$ python3 solution.py
 aa
 ab
 ...

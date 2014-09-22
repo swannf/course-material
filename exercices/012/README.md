@@ -1,13 +1,13 @@
 # Maybe for very large values of 2
 
-Introduces: comparaisons.
+Introduces: comparisons.
 
 ## Instructions
 
 Provide a script `solution.py` that prints what python think about 2 + 2 not being equal to 5.
 
 ```bash
-mbp|~-$ python solution.py
+mbp|~-$ python3 solution.py
 True
 mbp|~-$
 ```
@@ -18,3 +18,4 @@ Comparaisons: <https://docs.python.org/3/library/stdtypes.html#comparisons>
 
 
 ## References
+ - [comparisons](https://docs.python.org/3.1/library/stdtypes.html#comparisons)

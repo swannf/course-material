@@ -10,7 +10,7 @@ vertically.
 You must use the `print()` function only once in your script.
 
 ```bash
-mbp|~-$ python solution.py
+mbp|~-$ python3 solution.py
 H
 e
 l

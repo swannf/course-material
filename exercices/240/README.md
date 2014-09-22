@@ -10,7 +10,7 @@ Provide the script `solution.py` that print the 10 first numbers of this sequenc
 dot. Such as:
 
 ```bash
-$ python solution.py
+$ python3 solution.py
 1, 2, 3 ...
 ```
 

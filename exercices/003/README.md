@@ -7,7 +7,7 @@ Introduces: print, numbers.
 Write a script named `solution.py` that prints 42, such as:
 
 ```bash
-julien@localhost$ python solution.py
+julien@localhost$ python3 solution.py
 42
 julien@localhost$
 ```

@@ -7,7 +7,7 @@ Introduces: module, for, numbers, functions, if.
 Provide the script `solution.py` that prints the sum of every prime number inferior to 1000.
 
 ```bash
-$ python solution.py
+$ python3 solution.py
 666
 ```
 This solution is wrong of course :), you must provide the good one !
