@@ -18,7 +18,7 @@ antoine
 julien@localhost$ python solution.py julien
 julien
 julien@localhost$ python solution.py
-usage: python solution.py PARAM
+usage: python solution.py PARAM 
 julien@localhost$
 ```
 

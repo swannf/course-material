@@ -4,7 +4,7 @@ Introduces: operators.
 
 ## Instructions
 
-Provide the script `solution.py` that
+Provide the script `solution.py` that 
 
 Make a python script that print the result for 245850922 / 78256779 on one line, and the result of (1 + √5) / 2 on the next.
 

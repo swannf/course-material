@@ -14,7 +14,7 @@ julien@localhost$ python3 solution.py 1 2
 julien@localhost$ python3 solution.py 2 3
 5
 julien@localhost$ python3 solution.py
-usage: python solution.py OP1 OP2
+usage: python solution.py OP1 OP2 
 julien@localhost$
 ```
 
