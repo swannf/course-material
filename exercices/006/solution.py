@@ -1,2 +1,2 @@
-outp=['Hello World',42]
+outp=['Hello World', 42]
 print(outp)
