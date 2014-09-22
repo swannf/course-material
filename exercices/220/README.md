@@ -14,6 +14,7 @@ $ python solution.py
 1, 2, 3, 4, 5, 6
 ```
 
+
 ## References
  - [list](https://docs.python.org/3/tutorial/introduction.html#lists)
  - [strings](https://docs.python.org/3/tutorial/introduction.html#strings)
