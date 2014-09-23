@@ -4,4 +4,4 @@ if len(sys.argv) != 3:
 else:
     OP1 = sys.argv[1]
     OP2 = sys.argv[2]
-    print(float(OP1)+float(OP2))
+    print(int(OP1)+int(OP2))
