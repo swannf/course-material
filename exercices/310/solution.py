@@ -1,4 +1,6 @@
 with open('words', 'r') as f:
     f.readline()
+    res = 0
     for line in f:
-        print(line, end='')
+        res += line.count('e')
+print(res)
