@@ -30,7 +30,7 @@ Less formally the function `benchmark` you must provide will test every function
 
 ## Advice
 
-+ You should initialize the variables `a` and `b` like this to test your function `benchmark`, using numpy.random:
++ You should initialize the variables `a` and `b` like this to test your function `benchmark`, using [numpy.random](http://docs.scipy.org/doc/numpy/reference/routines.random.html):
 
 	```python
 	>>> a = np.random.randint(100, size=100)
@@ -44,4 +44,6 @@ Less formally the function `benchmark` you must provide will test every function
 ## References
  - [math](https://docs.python.org/3.4/library/math.html)
  - [numpy](http://www.numpy.org/)
+ - [timeit](https://docs.python.org/3.4/library/timeit.html)
  - [functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+ - [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
