@@ -8,6 +8,11 @@ Write a program named `solution.py` that do basic calculations.
 You need to be able to get basic operators such as +, - , *, / and %.
 Input will integer numbers.
 
+Your program will give a usage message if you don't give the three parameters.
+
+For every other errors like if an operand is not an integer, you'll
+print an `input error`.
+
 ## Example
 
 ```bash
