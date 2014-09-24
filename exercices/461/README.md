@@ -6,7 +6,7 @@ Author(s): Antoine Mazieres
 
 ## Description
 
-See exercise 261 for more info on [euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) and necessary functions to complete the exercise.
+See exercise 260 for more info on [euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) and necessary functions to complete the exercise.
 
 In this exercise you will benchmark (ie. compare) the performance of the different versions of the functions for calculating euclidean distance that we have implemented in the exercise 260.
 
