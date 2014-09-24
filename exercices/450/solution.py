@@ -9,7 +9,7 @@ def caesar_cypher(s, key, method):
     key = method*(key % 26)
     for let in s:
         if let in letter:
-            cript.append(letter[(letter.find(let))+key])
+            cript.append(letter[abs(((letter.find(let))+key) % 26)])
         else:
             cript.append(let)
     return(''.join(cript))
