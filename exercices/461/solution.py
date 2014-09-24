@@ -19,3 +19,9 @@ def np_euclidean(a, b):
     import numpy as np
     dist = np.linalg.norm(np.array(a)-np.array(b))
     return dist
+
+
+def benchmark(funcs, a, b):
+    import timeit
+    time = timeit.timeit(funcs[1](a, b), 10)
+    return(time)

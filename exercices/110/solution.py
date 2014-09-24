@@ -8,8 +8,11 @@ signs = {"+": operator.add,
          "^": operator.pow}
 p = sys.argv
 if (isinstance(int(p[1]), int) and
-        isinstance(int(p[3]), int) and p[2] in '/+-*%^'):
-    if (isinstance(p[1], float)) or isinstance(p[3], float):
+        '.' not in p[1] and
+        isinstance(int(p[3]), int) and
+        '.' not in p[3] and
+        p[2] in '/+-*%^'):
+    if ('.' in p[1] or '.' in p[3]):
         print('input error')
     if p[2] == '/' and int(p[3]) == 0:
         print('input error')
