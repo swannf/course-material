@@ -24,6 +24,6 @@ def check_my_city(scity):
     if statnb == 0:
         return("Sorry! No station for your city has been found!")
     else:
-        return {"station_nb": statnb,
+        return {"stations_nb": statnb,
                 "zip_code": zipcode,
                 "city": scity.lower()}
