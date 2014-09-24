@@ -35,7 +35,7 @@ You must provide a script called `solution.py` in which there is the following f
 	```python
 	import numpy as np
 	```
-Calculating the euclidean distance implies the usage of power, square root and sum functions. For each functions you must provide, you should use the versions of this calculation provided in the related module (like, `** 2`, `math.pow()` and `numpy.power()`).
+Calculating the euclidean distance implies the usage of power, square root and sum functions. For each functions you must provide, you should use the versions of this calculation provided in the related module (like, `** 2`, `math.pow()` and `numpy.power()`). 
 
 Such as:
 
