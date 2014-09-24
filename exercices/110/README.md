@@ -29,7 +29,7 @@ oa@localhost$
 
 ## Advice
 
-(**MAC**) To input a asterix to a python script you must type '\*', such as:
+(**SHELL (OSX, Linux...)**) To input a asterix to a python script you must type '\*', such as:
 
 ```bash
 mbp|110-$ python solution.py 3 / 5
