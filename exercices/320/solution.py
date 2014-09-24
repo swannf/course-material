@@ -12,4 +12,5 @@ with open('words', 'r') as f:
             dalpha[l] = dalpha[l]+line.count(l)
     for n in alphab:
         dalpha[n] = round(dalpha[n]/res, 2)
-print(dalpha)
+    for keys, values in dalpha.items():
+            print(': '.join([keys, str(values)]))
